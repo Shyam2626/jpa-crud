@@ -1,5 +1,4 @@
 package com.shyam.jpa_crud
-
 import com.shyam.jpa_crud.DAO.StudentDAO
 import com.shyam.jpa_crud.entity.Student
 import org.springframework.boot.CommandLineRunner
